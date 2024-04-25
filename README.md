@@ -1,2 +1,3 @@
 # repopos
-Repositório da Pós de DevOPs
+Repositório da disciplica de introção da Pós de DevOPs
+
